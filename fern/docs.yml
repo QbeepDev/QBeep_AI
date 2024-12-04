@@ -109,12 +109,12 @@ navigation:
 navbar-links:
   - type: secondary
     text: Contact us
-    url: "mailto:hello@zylon.ai"
+    url: "umendran.com"
   - type: github
-    value: "https://github.com/zylon-ai/private-gpt"
+    value: "https://github.com/Umen14"
   - type: primary
     text: Join the Discord
-    url: https://discord.com/invite/bK6mRVpErU
+    url: https://github.com/Umen14
 
 colors:
   accentPrimary:
@@ -122,8 +122,8 @@ colors:
     light: "#756E98"
 
 logo:
-  dark: ./docs/assets/logo_light.png
-  light: ./docs/assets/logo_dark.png
+  dark: ./docs/assets/logo_lighty.png
+  light: ./docs/assets/logo_darky.png
   height: 50
 
 favicon: ./docs/assets/favicon.ico

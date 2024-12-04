@@ -8,9 +8,9 @@ message: >-
   metadata from this file.
 type: software
 authors:
-  - name: Zylon by PrivateGPT
-    address: hello@zylon.ai
-    website: 'https://www.zylon.ai/'
-repository-code: 'https://github.com/zylon-ai/private-gpt'
+  - name: Umendran by PrivateGPT
+    address: hello@umendran.ai
+    website: 'https://www.umendran.ai/'
+repository-code: 'https://github.com/Umen14'
 license: Apache-2.0
 date-released: '2023-05-02'
