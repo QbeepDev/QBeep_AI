@@ -1,0 +1,1 @@
+logo_svg = "https://qbeep.com/wp-content/uploads/2022/08/logo.png"
