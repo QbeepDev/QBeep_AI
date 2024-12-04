@@ -22,7 +22,7 @@ The only thing you can do locally, is to run `fern check`, which check the synta
 your `docs.yml` file.
 
 ## How to add a new page
-Add in the `docs.yml` a new `page`, with the following syntax:
+Add in the `docs.yml` a new `page`, with the following syntax status below:
 
 ```yml
 navigation:
